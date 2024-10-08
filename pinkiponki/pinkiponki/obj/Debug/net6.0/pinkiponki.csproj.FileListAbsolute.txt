@@ -1,0 +1,15 @@
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\bin\Debug\net6.0\pinkiponki.exe
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\bin\Debug\net6.0\pinkiponki.deps.json
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\bin\Debug\net6.0\pinkiponki.runtimeconfig.json
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\bin\Debug\net6.0\pinkiponki.dll
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\bin\Debug\net6.0\pinkiponki.pdb
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.csproj.AssemblyReference.cache
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.AssemblyInfoInputs.cache
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.AssemblyInfo.cs
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.csproj.CoreCompileInputs.cache
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.dll
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\refint\pinkiponki.dll
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.pdb
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\pinkiponki.genruntimeconfig.cache
+C:\Users\c165958\source\repos\pinkiponki\pinkiponki\obj\Debug\net6.0\ref\pinkiponki.dll
